@@ -8,3 +8,8 @@
 	url = https://git.bioconductor.org/packages/qusage
 	shallow = true
 	registered = true
+[submodule "rdi"]
+	path = rdi
+	url = https://bitbucket.org/cbolen1/rdicore
+	shallow = true
+	registered = true
